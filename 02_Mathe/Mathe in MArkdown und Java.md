@@ -19,8 +19,9 @@
     ## Brüche darstellen
     Mit dem Befehl `\frac{}{}` oder `\dfrac{}{}` können Brüche dargestellt werden.
 
-    1. $\frac{3}{5}$
-    2. $\frac{3x^2-5x+7}{\sqrt{5}}$
+    1. Kompakter Bruch im Text $\frac{3x^2-5x+7}{\sqrt{5}}$
+
+    2. Abgesetzte Formel mit Bruch $\dfrac{3x^2-5x+7}{\sqrt{5}}$
 
 
     ## Indiezes verwenden
