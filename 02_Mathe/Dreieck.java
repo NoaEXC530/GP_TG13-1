@@ -10,7 +10,7 @@ public class Dreieck {
         double b = 4;
         double c = 5;
 
-        double sinAlpha = b/c: //in Bogenmass
+        double sinAlpha = b/c; //in Bogenmass
         double alpha = Math.toDegrees(Math.asin(sinAlpha));
 
         System.out.println("alpha:\t" + alpha);
